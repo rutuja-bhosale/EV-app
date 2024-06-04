@@ -18,7 +18,7 @@
  6) Map Fragment
  7) Book slot
     
-      ![image](https://github.com/rutuja-bhosale/EV-app/assets/91863575/a4e48d54-e9e9-4fe7-991c-d33ff0176a0c)
+      ![image](https://github.com/rutuja-bhosale/EV-app/assets/91863575/e964d3bf-f360-4800-8f64-b0dcd6f001a6)
 
       ![image](https://github.com/rutuja-bhosale/EV-app/assets/91863575/a6998f3b-6aae-48c0-818b-8878c64ec236)
     
