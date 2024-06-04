@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "246161238843",
+    "firebase_url": "https://chargingstation-77418-default-rtdb.firebaseio.com",
+    "project_id": "chargingstation-77418",
+    "storage_bucket": "chargingstation-77418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246161238843:android:da7ee917b1f6119554251e",
+        "android_client_info": {
+          "package_name": "com.example.charging_station_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUUV8GnBLeAGcMTUu1NfM3mKXBSkbcVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
