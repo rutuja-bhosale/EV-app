@@ -17,7 +17,6 @@
  5) Admin: Station Information
  6) Map Fragment
  7) Book slot
-      ![image](https://github.com/rutuja-bhosale/EV-app/assets/91863575/91d0117d-e578-4fba-9907-4c50e9f48b14)
     
       ![image](https://github.com/rutuja-bhosale/EV-app/assets/91863575/a4e48d54-e9e9-4fe7-991c-d33ff0176a0c)
 
