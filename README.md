@@ -1,7 +1,7 @@
 # EV: Charging Station App 
 * Design of mobile application to provide charging facilities
-* 1) Finding stations nearby
-* 2) Finding number of slots remaining
+ 1) Finding stations nearby
+ 2) Finding number of slots remaining
 
 * created with the help of:
 * 1) Operating System: Windows 10
